@@ -8,7 +8,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-int stringLength(const char *str) {
+int stringLength(char *str) {
   if(*str == '\0') {
     return 0;
   }
@@ -18,7 +18,7 @@ int stringLength(const char *str) {
 
 int main(int argc, char const *argv[])
 {
-    const char *string = "Layyana Junaid"; // note that space is also a character 
+    char *string = "Layyana Junaid"; // note that space is also a character 
     int length = stringLength(string);
 
     printf("Length of the string is %d\n", length);
