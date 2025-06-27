@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @layyana-junaid
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-layyana-junaid/layyana-junaid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Layyana Junaid!  
+🎓 AI & Machine Learning Student | Python Developer | Data Wrangling Enthusiast  
+🔧 **Skills**: Python (Pandas, NumPy, Scikit-learn), Data Analysis, Data Cleaning, C++ OOP. 
+💡 **Passionate about**: Turning messy data into insights and building AI models.  
