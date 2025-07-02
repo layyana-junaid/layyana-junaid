@@ -9,7 +9,8 @@ layyana-junaid | BSAI Student | AI/ML Enthusiast
 - **C++**  DSA + OOP principles.  
 ---
 
-** Tech Stack**  
+**Tech Stack**  
+
 **Languages & Tools:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -19,14 +20,15 @@ layyana-junaid | BSAI Student | AI/ML Enthusiast
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ---
 
-
 **Data & Visualization:**  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)  
 ![Seaborn](https://img.shields.io/badge/Seaborn-5C8DBC?style=flat&logo=seaborn&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+---
 
 **Database**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+---
 
 ### **📈 GitHub Stats**  
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=layyana-junaid&show_icons=true&theme=radical)](https://github.com/your-username)  
