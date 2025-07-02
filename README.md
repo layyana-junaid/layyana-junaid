@@ -4,6 +4,7 @@
 
 **AI & Data Specialist | Python Developer**  
 _From Data Wrangling to Actionable Insights_
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg) _From Data Wrangling to Actionable Insights_
 
 [📧 Email](mailto:layyana.junaid@gmail.com) | [💻 GitHub](https://github.com/layyana-junaid)
 
