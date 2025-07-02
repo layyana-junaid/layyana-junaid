@@ -1,6 +1,9 @@
 <div align="center">
 
-# LAYYANA JUNAID 
+<h1>
+<span style="color:#E0BBE4;">LAYYANA JUNAID</span>
+</h1>
+
 
 **AI & Data Specialist | Python Developer**  
 
