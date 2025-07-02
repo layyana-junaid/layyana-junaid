@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=From+Data+Wrangling+to+Insights)](https://git.io/typing-svg) 
 
-[📧 Email](mailto:layyana.junaid@gmail.com) | [💻 GitHub](https://github.com/layyana-junaid) | [ LinkedIn (https://www.linkedin.com/in/layyana-junaid/)]
+[📧 Email](mailto:layyana.junaid@gmail.com) | [💻 GitHub](https://github.com/layyana-junaid) | [🔗 LinkedIn](https://www.linkedin.com/in/layyana-junaid/)
 
 ---
 
