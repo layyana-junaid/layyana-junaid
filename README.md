@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🌸 LAYYANA JUNAID 🌸
+# 🌻 LAYYANA JUNAID 🌻
 ![AI & Data Specialist | Python Developer](https://img.shields.io/badge/AI_&_Data_Specialist_&_Python_Developer-%F0%9F%92%9C-lightpink?style=for-the-badge&color=D291BC)
- 
+![AI & Data Specialist | Python Developer](https://img.shields.io/badge/AI_&_Data_Specialist_&_Python_Developer-%F0%9F%92%9C-FFD700?style=for-the-badge&color=DAA520) 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=From+Data+Wrangling+to+Insights)](https://git.io/typing-svg) 
 
