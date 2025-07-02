@@ -1,9 +1,6 @@
 <div align="center">
 
-<h1>
-<span style="color:#E0BBE4;">LAYYANA JUNAID</span>
-</h1>
-
+![LAYYANA JUNAID](https://img.shields.io/badge/LAYYANA%20JUNAID-%F0%9F%8C%B8%20-lightpink?style=for-the-badge&color=D291BC)
 
 **AI & Data Specialist | Python Developer**  
 
