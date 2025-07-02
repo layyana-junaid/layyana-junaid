@@ -1,27 +1,35 @@
 <div align="center">
 
-# LAYYANA JUNAID
+# 🌸 LAYYANA JUNAID 🌸
 
-**AI & Data Specialist | Python Developer | From Data Wrangling to Actionable Insights**
+**AI & Data Specialist | Python Developer**  
+_From Data Wrangling to Actionable Insights_
 
-[Email](mailto:layyana.junaid@gmail.com) | [GitHub](https://github.com/layyana-junaid)
-
----
-
-
-## TECHNICAL SKILLS
-- **Programming**: Python (Pandas, NumPy, Scikit-learn), C, C++  
-- **AI/ML**: Search Algorithms (A*, BFS, Min-Max), Machine Learning, Bayesian Methods  
-- **Data Visualization**: Matplotlib, Seaborn  
-- **Databases**: MongoDB  
-- **Tools**: Git, GitHub, Jupyter Notebook  
+[📧 Email](mailto:layyana.junaid@gmail.com) | [💻 GitHub](https://github.com/layyana-junaid)
 
 ---
 
+## 💜 TECHNICAL SKILLS
 
-## GITHUB ACTIVITY
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=layyana-junaid&show_icons=true&theme=default)](https://github.com/layyana-junaid)  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0080CD?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=layyana-junaid&layout=compact&theme=default)](https://github.com/layyana-junaid)  
+---
+
+## 🩷 GITHUB ACTIVITY
+
+<img src="https://github-readme-stats.vercel.app/api?username=layyana-junaid&show_icons=true&theme=rose_pine&hide_border=true" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layyana-junaid&layout=compact&theme=rose_pine&hide_border=true" width="42%">
 
 </div>
