@@ -3,7 +3,7 @@
 # 🌸 LAYYANA JUNAID 🌸
 
 **AI & Data Specialist | Python Developer**  
-_From Data Wrangling to Actionable Insights_
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=From+Data+Wrangling+to+Actionable+Insights)](https://git.io/typing-svg) 
 
 [📧 Email](mailto:layyana.junaid@gmail.com) | [💻 GitHub](https://github.com/layyana-junaid)
