@@ -1,8 +1,6 @@
 <div align="center">
 
 # LAYYANA JUNAID 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Layyana+Junaid)](https://git.io/typing-svg) 
-
 
 **AI & Data Specialist | Python Developer**  
 
@@ -12,7 +10,7 @@
 
 ---
 
-## 💜 TECHNICAL SKILLS
+## TECHNICAL SKILLS
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -29,7 +27,7 @@
 
 ---
 
-## 🩷 GITHUB ACTIVITY
+## GITHUB ACTIVITY
 
 <img src="https://github-readme-stats.vercel.app/api?username=layyana-junaid&show_icons=true&theme=rose_pine&hide_border=true" width="50%">
 
