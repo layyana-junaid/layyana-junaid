@@ -4,7 +4,7 @@
 ![AI & Data Specialist | Python Developer](https://img.shields.io/badge/AI_&_Data_Specialist_&_Python_Developer-%F0%9F%92%9C-lightpink?style=for-the-badge&color=D291BC)
  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=From+Data+Wrangling+to+Actionable+Insights)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=From+Data+Wrangling+to+Insights)](https://git.io/typing-svg) 
 
 [📧 Email](mailto:layyana.junaid@gmail.com) | [💻 GitHub](https://github.com/layyana-junaid)
 
