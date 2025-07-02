@@ -1,6 +1,8 @@
 <div align="center">
 
-# 🌸 LAYYANA JUNAID 🌸
+# LAYYANA JUNAID 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Layyana+Junaid)](https://git.io/typing-svg) 
+
 
 **AI & Data Specialist | Python Developer**  
 
