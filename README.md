@@ -3,7 +3,11 @@
 # 🌻 LAYYANA JUNAID 🌻
 ![AI & Data Specialist | ML Enthusiast | Python Developer](https://img.shields.io/badge/AI_&_Data_Specialist_|_ML_Enthusiast_|_Python_Developer-%F0%9F%A4%8E-FFD700?style=for-the-badge&color=DAA520)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=From+data+wrangling+to+analytical+insights&color=FFFF00&width=600)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=From+data+wrangling+to+analytical+insights&color=FFFF00&width=600">
+  </a>
+</p>
 
 [📧 Email](mailto:layyana.junaid@gmail.com) | [💻 GitHub](https://github.com/layyana-junaid) | [🔗 LinkedIn](https://www.linkedin.com/in/layyana-junaid/)
 
