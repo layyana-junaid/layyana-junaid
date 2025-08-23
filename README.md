@@ -3,7 +3,7 @@
 # 🌻 LAYYANA JUNAID 🌻
 ![AI & Data Specialist | Intelligent Agent Developer | Python Developer](https://img.shields.io/badge/AI_&_Data_Specialist_|_Intelligent_Agent_Developer_|_Python_Developer-%F0%9F%A4%8E-FFD700?style=for-the-badge&color=DAA520)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data%2C%20LLMs%2C%20and%20Intelligent%20Agents;Designing%20Next-Gen%20AI%20Ecosystems&color=FFFF00)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data%2C%20LLMs%2C%20and%20Intelligent%20Agents;Designing%20Next-Gen%20AI%20Ecosystems&color=FFFF00&center=true&width=700&pause=1500)](https://git.io/typing-svg)
 
 [📧 Email](mailto:layyana.junaid@gmail.com) | [💻 GitHub](https://github.com/layyana-junaid) | [🔗 LinkedIn](https://www.linkedin.com/in/layyana-junaid/)
 
