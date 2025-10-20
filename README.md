@@ -1,12 +1,6 @@
 <div align="center">
 
 # 🎀 LAYYANA JUNAID 🎀
-![AI & Data Specialist | Intelligent Agent Developer | Python Developer](https://img.shields.io/badge/AI_&_Data_Specialist_|_Intelligent_Agent_Developer_|_Python_Developer-%F0%9F%8E%80-6A0DAD?style=for-the-badge&color=4B0082)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data%2C%20LLMs%2C%20and%20Intelligent%20Agents;Designing%20Next-Gen%20AI%20Ecosystems&color=BA55D3&center=true&width=700&pause=1500)](https://git.io/typing-svg)
-
-[📧 Email](mailto:layyana.junaid@gmail.com) | [💻 GitHub](https://github.com/layyana-junaid) | [🔗 LinkedIn](https://www.linkedin.com/in/layyana-junaid/)
-
 ---
 
 ## TECHNICAL SKILLS
