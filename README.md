@@ -32,8 +32,11 @@
 
 
 ## GITHUB ACTIVITY
-<img src="https://github-readme-stats.vercel.app/api?username=layyana-junaid&show_icons=true&theme=rose_pine&hide_border=true" width="450"/>
+<div align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=layyana-junaid&show_icons=true&theme=rose_pine&hide_border=true&cache_seconds=1800" width="450"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layyana-junaid&layout=compact&theme=rose_pine&hide_border=true" width="380"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=layyana-junaid&layout=compact&theme=rose_pine&hide_border=true&cache_seconds=1800" width="380"/>
+</div>
+
 
 </div>
