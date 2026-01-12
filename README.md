@@ -7,13 +7,14 @@
 
 ```text
                                               ┌────────────────────────────────────────────┐
-                                              │ Layyana Junaid                             │
                                               │ AI undergraduate who enjoys building       │
                                               │ intelligent, data-driven and agentic AI    │
                                               │ systems using ML, deep learning and LLMs   │
                                               │ Focus: reasoning • learning • real impact  │
                                               └────────────────────────────────────────────┘
 ```
+  <img src="https://github-readme-stats.vercel.app/api?username=layyana-junaid&show_icons=true&theme=rose_pine&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layyana-junaid&layout=compact&theme=rose_pine&hide_border=true" width="40%" />
 
 </div>
 
