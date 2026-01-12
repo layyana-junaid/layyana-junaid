@@ -13,8 +13,12 @@
                                               │ Focus: reasoning • learning • real impact  │
                                               └────────────────────────────────────────────┘
 ```
-  <img src="https://github-readme-stats.vercel.app/api?username=layyana-junaid&show_icons=true&theme=rose_pine&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layyana-junaid&layout=compact&theme=rose_pine&hide_border=true" width="40%" />
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=layyana-junaid&show_icons=true&theme=rose_pine&hide_border=true)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=layyana-junaid&layout=compact&theme=rose_pine&hide_border=true)
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=layyana-junaid&show_icons=true&theme=rose_pine&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=layyana-junaid&layout=compact&theme=rose_pine&hide_border=true" width="40%"/>
+
 
 </div>
 
